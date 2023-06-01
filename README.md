@@ -1,13 +1,13 @@
 # CoreData Model Editor
 
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
       
 ![](Icon-256.png)
       
-    </td>
-    <td>
+</td>
+<td>
       
 CoreData Model Editor is a macOS app that allows to graphically visualize (and very soon edit) a CoreData Model file.
 
@@ -15,8 +15,8 @@ The good old CoreData graphical editor that was present in XCode disappeared whe
 
 I wrote this app to help me with my CoreData models, and decided it could help others too.
       
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
   
 ## Included features
