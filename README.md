@@ -1,6 +1,6 @@
 # CoreData Model Editor
 
-<table>
+<table border='0 px'>
 <tr>
 <td>
       
