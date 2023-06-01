@@ -38,7 +38,7 @@ I wrote this app to help me with my CoreData models, and decided it could help o
 
 ## Where to get the app
 
-The app must be downloaded from the app store.
+The app must be downloaded from the app store: https://apps.apple.com/us/app/coredata-model-editor/id6449733666
 
 But wait ! It's not a free app !!!
 
