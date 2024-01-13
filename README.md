@@ -9,7 +9,7 @@
 </td>
 <td>
       
-CoreData Model Editor is a macOS app that allows to graphically edit a CoreData Model file (.xcdatamodeld files).
+CoreData Model Editor is a macOS app that allows you to graphically edit a CoreData Model file (.xcdatamodeld files).
 
 The good old CoreData graphical editor that was present in XCode disappeared when XCode 14 was released, only leaving the table based editor. This is a nice editor, but nothing is better than a diagram...
 
@@ -26,8 +26,8 @@ V1.0 was able to graphically visualise the model. Now, the model can be edited t
 ## Included features
 
 * Graphical representation of entities, their attributes and their relationships.
-* Edit the model as you wish, any entity, any attribute, relationships, create new mode versions etc...
-* Search the model for a string; all entities, attributes, relationships which name includes this string are revealed.
+* Edit the model as you wish, any entity, any attribute, relationships, create new model versions etc...
+* Search the model for a string; all entity, attribute, and relationship names that include this string are found.
 * Quickly see which entities are part of a configuration thanks to colours.
 
 
@@ -37,7 +37,7 @@ V1.0 was able to graphically visualise the model. Now, the model can be edited t
 * Managing Fetch Requests.
 * Show the diff between two model versions.
 * Show the type of attributes, and the delete rule at each end of a relationship.
-* Show model errors & warnings (e.g; missing type for an attribute)
+* Show model errors & warnings (e.g; missing type for an attribute).
 * Manage individual .xcdatamodel files (today only .xcdatamodeld files are managed).
 * Show model warnings or errors.
 
@@ -48,7 +48,7 @@ The app must be downloaded from the app store: https://apps.apple.com/us/app/cor
 
 But wait ! It's not a free app !!!
 
-Yes, that's true. The reason is that I would like to cover the developper annual fee to keep it on the App Store. Also, that keeps me motivated 😀.
+Yes, that's true. The reason is that I would like to cover the developer annual fee to keep it on the App Store. Also, that keeps me motivated 😀.
 **But it is very cheap**, and it is a pay-once-get-it-forever app. The price may go up as more features will come to the app, so don't hesitate to buy it right now, you'll get all the future features for free 😇.
 
 
