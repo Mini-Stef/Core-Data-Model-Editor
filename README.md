@@ -19,9 +19,12 @@ I wrote this app to help me with my CoreData models, and decided it could help o
 </tr>
 </table>
 
-## V1.1 is now available and... it is an editor !!!
+## V1.3 is now available and... it has undo management !!!
 
-V1.0 was able to graphically visualise the model. Now, the model can be edited too !
+* V1.0 was able to graphically visualise the model.
+* V1.1 was able to edit the model.
+* V1.2 wrote generated model files that an be diffed to XCode outputs.
+* V1.3 has validation of text fields, and an undo manager.
 
 ## Included features
 
@@ -30,11 +33,19 @@ V1.0 was able to graphically visualise the model. Now, the model can be edited t
 * Search the model for a string; all entity, attribute, and relationship names that include this string are found.
 * Quickly see which entities are part of a configuration thanks to colours.
 
+Full list of V1.3 new features:
+
+- There is now a full Undo manager.
+- Input fields are now validated to be OK for their usage (eg: Entity names start with an uppercase letter - or relationships can't be circular).
+- .xccurrentversion file is now preserved between saves.
+- Configurations' colors are now saved.
+- Icon is of the right size.
+
 
 ## Features to come
 
-* Better validate input texts. Today, inputs texts are used as-is. It would be better if they were checked. For example, an entity name shall not start with a digit character.
 * Managing Fetch Requests.
+  => Will be the next big thing
 * Show the diff between two model versions.
 * Show the type of attributes, and the delete rule at each end of a relationship.
 * Show model errors & warnings (e.g; missing type for an attribute).
