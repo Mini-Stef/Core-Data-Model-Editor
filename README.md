@@ -23,7 +23,7 @@ I wrote this app to help me with my CoreData models, and decided it could help o
 
 * V1.0 was able to graphically visualise the model.
 * V1.1 was able to edit the model.
-* V1.2 wrote generated model files that an be diffed to XCode outputs.
+* V1.2 wrote generated model files that can be diffed to XCode outputs.
 * V1.3 has validation of text fields, and an undo manager.
 
 ## Included features
