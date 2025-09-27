@@ -19,7 +19,7 @@ I wrote this app to help me with my CoreData models, and decided it could help o
 </tr>
 </table>
 
-## V1.5 is now available and... it has colors !!!
+## V1.6 is now available and... it improves quality of life !!!
 
 * V1.0 was able to graphically visualise the model.
 * V1.1 was able to edit the model.
@@ -27,6 +27,9 @@ I wrote this app to help me with my CoreData models, and decided it could help o
 * V1.3 had validation of text fields, and an undo manager.
 * V1.4.x included some Fetch Request management, plus numerous small improvements here and there.
 * V1.5 included a new color mode. The editor can now show coloured entities either based on Configurations colour, or Entities colour (or none).
+* V1.6 included feature requests of tickets #29, 30 and 31. Plus, there is now a macOS Tahoe icon.
+
+Note: the new icon is the top of what I can do as a graphic designer ! **Any help is welcome !!!**
 
 ## Included features
 
