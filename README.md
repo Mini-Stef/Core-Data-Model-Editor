@@ -4,7 +4,7 @@
 <tr>
 <td>
       
-![](Icon-256.png)
+![](Icon-256-16.png)
       
 </td>
 <td>
